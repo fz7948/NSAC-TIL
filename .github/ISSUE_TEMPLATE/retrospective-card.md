@@ -1,7 +1,7 @@
 ---
 name: retrospective card
 about: Daily 회고
-title: ''
+title: "[210800] ㅇㅇㅇ Daily 회고"
 labels: ''
 assignees: ''
 
