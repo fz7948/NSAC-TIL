@@ -9,12 +9,12 @@
 
 ### 🐰 참여자 
 
-- O Wooyoung [:octocat:](https://github.com/fz7948)
 - Cho Taegyu [:octocat:](https://github.com/0r0loo)
+- O Wooyoung [:octocat:](https://github.com/fz7948)
 
 ### ✏️ 프로젝트 리팩토링
 
 |    참여자    |         링크         |
 | :----------: | :------------------: |
-| O Wooyoung  | [:link:](./fz7948/) |
 | Cho Taegyu  | [:link:](./0r0loo/) |
+| O Wooyoung  | [:link:](./fz7948/) |
