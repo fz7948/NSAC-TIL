@@ -18,4 +18,4 @@
 |    참여자    |         링크         |
 | :----------: | :------------------: |
 | Cho Taegyu  | [:link:](./0r0loo/) |
-| O Wooyoung  | [:link:](./fz7948/) |
+| O Wooyoung  | [:link:](https://github.com/fz7948/45rpm-client/projects/2) |
